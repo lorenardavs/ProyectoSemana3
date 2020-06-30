@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="tituloapp">Petagram</string>
+    <string name="reloj1">Reloj Elegante $50</string>
+    <string name="reloj2">Reloj Elegante $70</string>
+    <string name="reloj3">Reloj elegante Azul $110</string>
+</resources>
